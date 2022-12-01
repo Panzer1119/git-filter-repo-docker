@@ -1,1 +1,1 @@
-# git-filter-repo-docker
+# Docker Image for git-filter-repo
