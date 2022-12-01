@@ -10,7 +10,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: git-filter-repo
+  IMAGE_NAME: ${{ github.actor }}/git-filter-repo
 
 jobs:
   Publish:
